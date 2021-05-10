@@ -2,7 +2,8 @@ This is a simple credit card proccessor application.
 
 To use this program:
 1. Clone to your local machine.
-2. cd into the ccprocessor folder.
+2. CD into the ccprocessor folder.
+3. Type "bundle install" and press enter
 
 At this point you have 2 options to run this program:
 
