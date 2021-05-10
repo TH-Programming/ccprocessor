@@ -5,6 +5,7 @@ To use this program:
 2. cd into the ccprocessor folder.
 
 - At this point you have 2 options to run this program:
+
 A) Providing arguments manually
 1. Type "./main.rb"
 2. Type as many program commands as needed, presing "enter" between each command"
