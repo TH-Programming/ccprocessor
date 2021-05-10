@@ -8,7 +8,7 @@ To use this program:
 At this point you have 2 options to run this program:
 
 A) Providing arguments manually
-1. Type "./main.rb"
+1. Type "./main.rb" and press enter
 2. Type as many program commands as needed, pressing "enter" between each command
 3. Press CTRL + D when finished entering commands and the program will run.
 
